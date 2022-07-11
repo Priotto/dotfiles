@@ -52,3 +52,6 @@
 
 [init]
   defaultBranch = master
+[user]
+	email = hugo.prioto@gmail.com
+	name = Hugo Prioto
